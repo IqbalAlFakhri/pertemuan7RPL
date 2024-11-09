@@ -1,4 +1,6 @@
 commit pertama
 
 commit kedua
+
 commit ketiga dengan konflik
+ini ada konflik
